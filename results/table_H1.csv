@@ -1,0 +1,9 @@
+label,bench,BWT_pp,BWT_sd,frac_within_bound,median_drift_over_bound,max_drift_over_bound,max_leak,n_seeds,mean_last_task
+GPM,cifar,-0.4056,0.2047,1.0,0.0092,0.018,,10,14.0
+GPM,pmnist,-12.9311,0.5251,1.0,0.0315,0.0484,,5,19.0
+SOCR-B,cifar,-1.5117,0.4349,1.0,0.0118,0.0191,0.0,10,2.7
+SOCR-B,pmnist,-1.505,0.5594,1.0,0.0466,0.064,0.0,5,2.0
+SOCR-dense,cifar,-5.8442,0.7937,1.0,0.0108,0.0194,0.0,10,14.0
+SOCR-dense,pmnist,-37.3405,0.7424,1.0,0.0437,0.0655,0.0,5,19.0
+SOCR-ref,cifar,-5.2204,0.6209,1.0,0.0103,0.0171,0.0,10,14.0
+SOCR-ref,pmnist,-28.7048,3.3838,1.0,0.0406,0.064,0.0,5,17.2
